@@ -14,9 +14,7 @@ This project analyzes employee attrition using Power BI, exploring key factors t
 ✔️ **Attrition by Department, Age, and Job Role**  
 ✔️ **Salary vs. Attrition Trends**  
 ✔️ **Interactive Filters & Insights**  
-
-## 🔹 Dashboard Preview  
-![Employee Attrition Dashboar](Employee attrition dashboard.png)  
+  
 
 ## 🔹 Insights & Findings  
 - The highest attrition is among **Sales Executives & Laboratory Technicians**.  
